@@ -1,0 +1,44 @@
+li {list-style-type: square}
+
+#cena {
+    color:red; 
+    font-weight: bold
+}
+
+.intro {
+    font-style: italic;
+}
+
+td img {
+    border-style: solid;
+    border-color: blue;    
+}
+
+td img:hover{
+    border-color: red;
+}
+
+h1+h2{
+    letter-spacing: 5px;
+}
+
+td[colspan="2"] p{
+    font-size: small;
+}
+
+p+p{
+    color:grey;
+}
+
+body{
+    background-image: url("https://digitalpublishing101.com/wp-content/uploads/2013/09/open-book-black-100x100.png");
+    background-repeat: repeat-y;
+}
+
+h1{
+    color:blue;
+}
+
+h1{
+    color:green;
+}
